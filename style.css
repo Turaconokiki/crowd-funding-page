@@ -101,7 +101,7 @@
   @media screen and (max-width: 768px) {
     body {
       background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.015)),
-        url(../images/image-hero-mobile.jpg);
+        url(./images/image-hero-mobile.jpg);
       font-size: 1.7rem;
     }
   
